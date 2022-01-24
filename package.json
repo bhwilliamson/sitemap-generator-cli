@@ -29,7 +29,7 @@
   "dependencies": {
     "chalk": "2.4.1",
     "commander": "2.19.0",
-    "sitemap-generator": "/bhwilliamson/sitemap-generator",
+    "sitemap-generator": "bhwilliamson/sitemap-generator",
     "http-proxy-agent": "4.0.1",
     "https-proxy-agent": "5.0.0"
   },
